@@ -1,2 +1,2 @@
-Pertemuan Ke-2
+# Pertemuan Ke-2
 Contoh Program Struct Pada C++
