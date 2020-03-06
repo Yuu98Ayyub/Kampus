@@ -1,2 +1,2 @@
 # Kampus
-Repositories ini berisi contoh-contoh program pada c++ dari awal semester perkuliahan hingga akhir semester.
+Repositories ini berisi contoh-contoh program pada c++ untuk 1 semester
